@@ -8,3 +8,6 @@ function deepestChild(){
   }
   return start;
 }
+function increaseRankBy(n){
+  
+}
