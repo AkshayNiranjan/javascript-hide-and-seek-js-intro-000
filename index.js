@@ -15,5 +15,5 @@ function increaseRankBy(n){
   }
 }
 function nestedTarget(){
-  return document.getElementById("div.target");
+  return document.getElementById(".target");
 }
