@@ -14,3 +14,6 @@ function increaseRankBy(n){
     lis[i].innerHTML = (parseInt(lis[i].innerHTML) + n).toString();
   }
 }
+function nestedTarget(){
+  
+}
