@@ -6,5 +6,5 @@ function deepestChild(){
   while(start.querySelector("div")!=null){
     start=start.querySelector("div");
   }
-  return start.innerHTML;
+  return start;
 }
